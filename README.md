@@ -1,4 +1,4 @@
-# AWS_Host_a_Website
+# AWS Host A Website
 
 Introducing Today's Project!</br>
 In this project, I will demonstrate how to use S3 to host a static website. I'm doing this project to learn about AWS and cloud services and it can be used as storage and host websites.
